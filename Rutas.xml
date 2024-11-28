@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rutas>
+  <ruta>
+    <nombre>Pujada a Penyagolosa</nombre>
+    <desnivel>530</desnivel>
+    <desnivelAcumulado>530</desnivelAcumulado>
+    <puntos>
+      <punto num="1">
+        <nombre>Sant Joan</nombre>
+        <latitud>40.251036</latitud>
+        <longitud>-0.354223</longitud>
+      </punto>
+      <punto num="2">
+        <nombre>Encreuament</nombre>
+        <latitud>40.25156</latitud>
+        <longitud>-0.352507</longitud>
+      </punto>
+      <punto num="3">
+        <nombre>Barranc de la Pegunta</nombre>
+        <latitud>40.247318</latitud>
+        <longitud>-0.351713</longitud>
+      </punto>
+      <punto num="4">
+        <nombre>El Corralico</nombre>
+        <latitud>40.231708</latitud>
+        <longitud>-0.348859</longitud>
+      </punto>
+      <punto num="5">
+        <nombre>Penyagolosa</nombre>
+        <latitud>40.222632</latitud>
+        <longitud>-0.350339</longitud>
+      </punto>
+    </puntos>
+  </ruta>
+  <ruta>
+    <nombre>La Magdalena</nombre>
+    <desnivel>51</desnivel>
+    <desnivelAcumulado>84</desnivelAcumulado>
+    <puntos>
+      <punto num="1">
+        <nombre>Primer Molí</nombre>
+        <latitud>39.99385</latitud>
+        <longitud>-0.032941</longitud>
+      </punto>
+      <punto num="2">
+        <nombre>Segon Molí</nombre>
+        <latitud>39.99628</latitud>
+        <longitud>-0.029427</longitud>
+      </punto>
+      <punto num="3">
+        <nombre>Caminàs</nombre>
+        <latitud>40.00513</latitud>
+        <longitud>-0.022569</longitud>
+      </punto>
+      <punto num="4">
+        <nombre>Riu Sec</nombre>
+        <latitud>40.006765</latitud>
+        <longitud>-0.02237</longitud>
+      </punto>
+      <punto num="5">
+        <nombre>Sant Roc</nombre>
+        <latitud>40.017906</latitud>
+        <longitud>-0.02289</longitud>
+      </punto>
+      <punto num="6">
+        <nombre>Explanada</nombre>
+        <latitud>40.034048</latitud>
+        <longitud>-0.00633</longitud>
+      </punto>
+      <punto num="7">
+        <nombre>La Magdalena</nombre>
+        <latitud>40.034519</latitud>
+        <longitud>-0.005856</longitud>
+      </punto>
+    </puntos>
+  </ruta>
+</rutas>
